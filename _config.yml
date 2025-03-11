@@ -1,7 +1,3 @@
-remote_theme: pages-themes/leap-day@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-
-title: [The title of your site]
-description: [A short description of your site's purpose]
+theme: jekyll-theme-minimal
+title: "我的日记博客"
+description: "记录我的每日生活"
